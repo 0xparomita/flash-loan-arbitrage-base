@@ -1,0 +1,11 @@
+{
+  "mainnet": {
+    "poolAddressesProvider": "0x2f39d218133AFaB8F2B819B1066c7E434Ad94E9e"
+  },
+  "polygon": {
+    "poolAddressesProvider": "0xa97684ead0e451190105f51f5f45521a91cf950c"
+  },
+  "arbitrum": {
+    "poolAddressesProvider": "0xa97684ead0e451190105f51f5f45521a91cf950c"
+  }
+}
